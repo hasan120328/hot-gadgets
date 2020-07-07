@@ -1,0 +1,19 @@
+.nav-link{
+    padding: 5px 10px;
+}
+.buy-now-button{
+    color: white;
+    padding: 5px 10px;
+    background-color: black;
+    border-radius: 10px;
+
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgrey;
+}
